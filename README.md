@@ -2,7 +2,8 @@ nikeplus2tcx
 ============
 
 This is a simple data extractor and converter to retrieve data from NikePlus and save as TCX file.
-Full format description is available at Garmin Developer Portal (http://developer.garmin.com/schemas/tcx/v2/)
+Full TCX format description is available at Garmin Developer Portal (http://developer.garmin.com/schemas/tcx/v2/)
+NikePlus API documentation is available at Nike Developer Site (https://developer.nike.com/)
 
 
 Installation
