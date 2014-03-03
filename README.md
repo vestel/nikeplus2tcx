@@ -1,3 +1,6 @@
+[![Code Health](https://landscape.io/github/vestel/nikeplus2tcx/master/landscape.png)](https://landscape.io/github/vestel/nikeplus2tcx/master)
+
+
 nikeplus2tcx
 ============
 
