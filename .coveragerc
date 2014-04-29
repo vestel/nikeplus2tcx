@@ -1,0 +1,10 @@
+[report]
+omit =
+    */python?.?/*
+    */site-packages/nose/*
+
+[html]
+directory = cover
+
+[xml]
+output = coverage.xml
