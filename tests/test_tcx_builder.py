@@ -1,4 +1,5 @@
 import unittest
+from lib.errors import MalformedTCXException
 from lib.tcx_builder import TCXBuilder
 
 class TCXBuilderTests(unittest.TestCase):
